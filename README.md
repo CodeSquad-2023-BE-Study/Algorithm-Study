@@ -1,2 +1,175 @@
-# Algorithm-Study
-알고리즘 스터디를 진행하는 저장소
+# 🖥 알고리즘 스터디
+
+<table>
+ <tr>
+    <td>진행 기간</td>
+    <td>2023년 2월 20일 ~ </td>
+  </tr>
+  <tr>
+    <td>스터디 장소</td>
+    <td>선릉역</td>
+  </tr>
+  <tr>
+    <td>정기 스터디 시간</td>
+    <td>미정</td>
+  </tr>
+  <tr>
+    <td>플랫폼</td>
+    <td>백준, 프로그래머스</td>
+  </tr>
+  <tr>
+    <td>언어</td>
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
+  </tr>
+</table>
+
+</br>
+
+## 🤖 스터디 멤버
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/jinny-l" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/HyowonSin" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="150px;" alt=""></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/jinny-l"><b>jinny-l</b></td>
+    <td align="center"><a href="https://github.com/HyowonSin"><b>HyowonSin</b></td>
+    <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></td>
+    <td align="center"><a href="https://github.com/JeonHyoChang"><b>JeonHyoChang</b></td>
+  </tr>
+  <tr> 
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+  </tr> 
+</table>
+
+</br>
+
+## ✔️ 이번 주 문제
+_업데이트 일정: 매주 월요일 오전 10시 이전_
+
+| 주차 | 날짜 | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 문제 출처 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Week_01| 02-20 ~ 02-26 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) |  [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 프로그래머스 |
+
+</br>
+
+## 🧑🏻‍💻 진행 상황
+_업데이트 일정: 매주 월요일_
+
+| 진행 상황 | 표기 |
+|:---|:---|
+| 해당 주에 완료 시 | ✅ |
+| 해당 주에 부분 완료 시 | 🔢 |
+| 해당 주에 미완료 시 | ❌ |
+| 해당 주차 종료 이후 보충 시 | 🔺 |
+
+| 주차 | 날짜 | jinny-l | HyowonSin | jaea-kim | JeonHyoChang |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|Week 01| 02-20 ~ 02-26 | ✅ | ❌ | 2️⃣ | ✅ |
+|Week 02| |  |  |  |  |
+|Week 03| |  |  |  |  |
+|Week 04| |  |  |  |  |
+|Week 05| |  |  |  |  |
+
+</br>
+
+## 📌 스터디 규칙
+### 운영 방식
+- 격주로 온라인/오프라인 스위칭하면서 진행한다.
+  - 온라인 주차: 각자 문제를 풀고 PR 마감 시간 전에 제출한다.
+  - 오프라인 주차: 정해진 문제를 오프라인에서 모각코한다.
+
+### 문제 선정
+- 스터디 멤버 돌아가면서 한달 분량의 문제를 선정한다.
+- 전월 오프라인 모임 때 같이 문제를 확인하고 컨펌한다.
+
+### 문제 풀이
+- 주마다 3 ~ 5문제를 선정하여 진행한다.
+  - 난이도에 따라 문제 개수를 조정한다.
+- 주차별 문제 풀이 미완료 시 풀지 않은 문제당 1,000원 적립
+
+</br>
+
+## 🗓 일정표(매주 3 ~ 5 문제)
+
+| 주차 | 날짜 | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 문제 출처 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Week_01| 02-20 ~ 02-26 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) |  [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 프로그래머스 |
+|Week_02| |  |  |  |  |  ||
+|Week_03| |  |  |  |  |  ||
+|Week_04| |  |  |  |  |  ||
+|Week_05| |  |  |  |  |  ||
+
+</br>
+
+---
+
+</br>
+
+## 🔍 참여 방법
+1. 이 저장소를 `fork` 한다.
+2. 생성된 원격 저장소에 githubID로 폴더를 생성한다.
+3. 알고리즘 풀이 후 원격 저장소 자신의 폴더에 풀이한 소스 코드를 `push` 한다.
+4. commit할 때 commit 컨벤션을 지킨다.
+5. 마감 시간 전까지 원본 저장소로 `PR`한다.
+6. (option) 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
+
+</br>
+
+## 📁 Repository 폴더 구조
+- Github ID/주차/소스코드(플랫폼, 문제 번호와 제목 명시)
+
+### 💡 예시
+`jinny-l/Week_01/BOJ_1000.A+B.java`
+
+</br>
+
+## ⚠️ commit 컨벤션
+
+> commit 컨벤션은 [gitmoji](https://gitmoji.dev/)와 [AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)을 참고했습니다.
+
+- "이모지 태그: [플랫폼] {문제 번호.} {문제 이름} {커밋 메시지}" 형태로 작성
+- 플랫폼에 따라 없는 내용은 생략 가능
+
+### 💡 예시
+`✨feat: [BOJ] 1000.A+B 문제 알고리즘 구현`
+
+#### 이모지 및 태그
+| 이모지 | 태그 | 설명 |
+| :--- | :--- | :--- |
+| ✨ | feat | 새로운 기능 추가 |
+| 🐛 | fix | 버그 수정 |
+| ♻️ | refactor | 코드 리팩토링 |
+| ✏️ | comment | 주석 추가(코드 변경 X) 혹은 오타 수정 |
+| 📝 | docs | README와 같은 문서 수정 |
+| 🔀 | merge | merge |
+| 🚚 | rename | 파일, 폴더명 수정 혹은 이동 |
+
+#### 플랫폼
+| 플랫폼 | 태그 |
+| :--- | :--- |
+| 백준 | [BOJ] |
+| 프로그래머스 | [PGS] |
+| 리트코드 | [LTC] |
+
+</br>
+
+## ⚠️ PR 규칙
+- [주차] {완료한 문제 개수} 문제 제출합니다." 형태로 작성
+- (option) comment는 자유지만, 겪었던 어려움이나 참고했던 자료들 공유해주시면 스터디 모임 때 얘기하면서 같이 성장할 수 있을 것 같습니다. 🙂
+
+### 💡 예시
+`[Week 01] 3문제 제출합니다.`
+
+---
+
+해당 README는 다음 레포지토리를 참고해서 제작하였습니다.
+- [알고리즘 및 코딩 테스트 문제 풀이 챌린지 100](https://github.com/ellynhan/challenge100-codingtest-study)
+- [알고리즘 및 코딩 테스트 문제 풀이](https://github.com/Seongho0503/Algo_Study)
+- [코딩테스트 기출 문제 풀이 및 업로드 Repository](https://github.com/CodeTest-StudyGroup/Code-Test-Study)
+- [Algorithm Study](https://github.com/b1urrrr/Algorithm-Study)
