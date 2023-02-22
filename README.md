@@ -3,15 +3,15 @@
 <table>
  <tr>
     <td>진행 기간</td>
-    <td>2023년 2월 20일 ~ </td>
+    <td>2023년 2월 20일 ~ ing </td>
   </tr>
   <tr>
     <td>스터디 장소</td>
-    <td>선릉역</td>
+    <td>선릉역, 강남역</td>
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td>미정</td>
+    <td>일요일 13:30 ~ 16:30 [3h]</td>
   </tr>
   <tr>
     <td>플랫폼</td>
@@ -50,11 +50,11 @@
 </br>
 
 ## ✔️ 이번 주 문제
-_업데이트 일정: 매주 월요일 오전 10시 이전_
+_업데이트 일정: 매주 월요일_
 
-| 주차 | 날짜 | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 문제 출처 |
+| 주차 | 날짜 | 문제 유형 | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Week_01| 02-20 ~ 02-26 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) |  [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 프로그래머스 |
+|Week_01| 23-02-20 <br> ~ <br> 23-02-26 | Bruete Force | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> [분해합](https://www.acmicpc.net/problem/2231) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br> [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [한수](https://www.acmicpc.net/problem/1065) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [숫자 정사각형](https://www.acmicpc.net/problem/1051) |
 
 </br>
 
@@ -70,7 +70,7 @@ _업데이트 일정: 매주 월요일_
 
 | 주차 | 날짜 | jinny-l | HyowonSin | jaea-kim | JeonHyoChang |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|Week 01| 02-20 ~ 02-26 | ✅ | ❌ | 2️⃣ | ✅ |
+|Week 01| 23-02-20 ~ 23-02-26 | ✅ | ❌ | 2️⃣ | ✅ |
 |Week 02| |  |  |  |  |
 |Week 03| |  |  |  |  |
 |Week 04| |  |  |  |  |
@@ -84,26 +84,31 @@ _업데이트 일정: 매주 월요일_
   - 온라인 주차: 각자 문제를 풀고 PR 마감 시간 전에 제출한다.
   - 오프라인 주차: 정해진 문제를 오프라인에서 모각코한다.
 
-### 문제 선정
-- 스터디 멤버 돌아가면서 한달 분량의 문제를 선정한다.
-- 전월 오프라인 모임 때 같이 문제를 확인하고 컨펌한다.
+## PR 마감 시간
+- PR 마감 시간: 매주 일요일 23:59
+- 매주 일요일이 PR 마감 시간이나, 일요일까지 문제를 다 못 풀었다면 코드 리뷰를  토요일에 미리 PR을 보내는 것을 권장한다.
+
+### 문제
+- [ps_study](https://github.com/kimnamu/ps_study)의 문제를 푼다.
+- 매월 한달치 일정을 업데이트 한다.
 
 ### 문제 풀이
-- 주마다 3 ~ 5문제를 선정하여 진행한다.
-  - 난이도에 따라 문제 개수를 조정한다.
+- 주마다 5문제를 풀이한다.
 - 주차별 문제 풀이 미완료 시 풀지 않은 문제당 1,000원 적립
 
 </br>
 
-## 🗓 일정표(매주 3 ~ 5 문제)
+## 🗓 일정표(매주 5 문제)
 
-| 주차 | 날짜 | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 문제 출처 |
+| 주차 | 날짜 | 문제 유형 | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Week_01| 02-20 ~ 02-26 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) | [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) |  [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | 프로그래머스 |
-|Week_02| |  |  |  |  |  ||
-|Week_03| |  |  |  |  |  ||
-|Week_04| |  |  |  |  |  ||
-|Week_05| |  |  |  |  |  ||
+|Week_01| 23-02-20 <br> ~ <br> 23-02-26 | Bruete Force | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> [분해합](https://www.acmicpc.net/problem/2231) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br> [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [한수](https://www.acmicpc.net/problem/1065) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [숫자 정사각형](https://www.acmicpc.net/problem/1051) |
+|Week_02| 23-02-27 <br> ~ <br> 23-03-05 | Sort Application | [세수정렬](https://www.acmicpc.net/problem/2752) | [콘테스트](https://www.acmicpc.net/problem/5576) | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [신입사원](https://www.acmicpc.net/problem/1946) |
+|Week_03| 23-03-06 <br> ~ <br> 23-03-12 | Binary Search | [정수 제곱근](https://www.acmicpc.net/problem/2417) | [수 찾기](https://www.acmicpc.net/problem/1920) | [게임](https://www.acmicpc.net/problem/1072) | [용돈 관리](https://www.acmicpc.net/problem/6236) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
+|Week_04| 23-03-13 <br> ~ <br> 23-03-19 | Two Pointers | [배열 합치기](https://www.acmicpc.net/problem/11728) | [두 수의 합](https://www.acmicpc.net/problem/3273) | [주몽](https://www.acmicpc.net/problem/1940) | [수들의 합 5](https://www.acmicpc.net/problem/2018) | [수들의 합 2](https://www.acmicpc.net/problem/2003) |
+|Week_05| 23-03-20 <br> ~ <br> 23-03-26 | Graph Search | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [바이러스](https://www.acmicpc.net/problem/2606) | [유기농 배추](https://www.acmicpc.net/problem/1012) | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [토마토](https://www.acmicpc.net/problem/7576) |
+|Week_06| 23-03-27 <br> ~ <br> 23-04-02 | Tree | [상근이의 여행](https://www.acmicpc.net/problem/9372) | [부동산 다툼](https://www.acmicpc.net/problem/20364) | [완전 이진 트리](https://www.acmicpc.net/problem/9934) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [트리 순회](https://www.acmicpc.net/problem/1991) |
+|Week_07| |  | []() | []() | []() | []() | []() |
 
 </br>
 
@@ -125,7 +130,7 @@ _업데이트 일정: 매주 월요일_
 - Github ID/주차/소스코드(플랫폼, 문제 번호와 제목 명시)
 
 ### 💡 예시
-`jinny-l/Week_01/BOJ_1000.A+B.java`
+`jinny-l/Week_01/BOJ_1000_A+B.java`
 
 </br>
 
