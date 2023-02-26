@@ -32,14 +32,14 @@
     <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/HyowonSin" width="120px;" alt=""></td>
     <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="120px;" alt=""></td>
     <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="120px;" alt=""></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="120px;" alt=""></td>
+    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="120px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jinny-l"><b>jinny-l</b></td>
     <td align="center"><a href="https://github.com/HyowonSin"><b>HyowonSin</b></td>
     <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></td>
     <td align="center"><a href="https://github.com/JeonHyoChang"><b>JeonHyoChang</b></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><b>Gwonwoo-Nam</b></td>
+    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>Gwonwoo-Nam</b></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
