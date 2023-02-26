@@ -28,19 +28,22 @@
 ## 🤖 스터디 멤버
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/jinny-l" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/HyowonSin" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="150px;" alt=""></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/jinny-l" width="120px;" alt=""></td>
+    <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/HyowonSin" width="120px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="120px;" alt=""></td>
+    <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="120px;" alt=""></td>
+    <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="120px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jinny-l"><b>jinny-l</b></td>
     <td align="center"><a href="https://github.com/HyowonSin"><b>HyowonSin</b></td>
     <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></td>
     <td align="center"><a href="https://github.com/JeonHyoChang"><b>JeonHyoChang</b></td>
+    <td align="center"><a href="https://github.com/JeonHyoChang"><b>Gwonwoo-Nam</b></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
@@ -68,13 +71,13 @@ _업데이트 일정: 매주 월요일_
 | 해당 주에 미완료 시 | ❌ |
 | 해당 주차 종료 이후 보충 시 | 🔺 |
 
-| 주차 | 날짜 | jinny-l | HyowonSin | jaea-kim | JeonHyoChang |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|Week 01| 23-02-20 ~ 23-02-26 | ✅ | ❌ | 2️⃣ | ✅ |
-|Week 02| |  |  |  |  |
-|Week 03| |  |  |  |  |
-|Week 04| |  |  |  |  |
-|Week 05| |  |  |  |  |
+| 주차 | 날짜 | jinny-l | HyowonSin | jaea-kim | JeonHyoChang | Gwonwoo-Nam |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|Week 01| 23-02-20 ~ 23-02-26 | ✅ | ❌ | 2️⃣ | ✅ | 중도 합류 |
+|Week 02| |  |  |  |  |  |
+|Week 03| |  |  |  |  |  |
+|Week 04| |  |  |  |  |  |
+|Week 05| |  |  |  |  |  |
 
 </br>
 
@@ -86,7 +89,7 @@ _업데이트 일정: 매주 월요일_
 
 ### PR 마감 시간
 - PR 마감 시간: 매주 일요일 23:59
-- 매주 일요일이 PR 마감 시간이나, 일요일까지 문제를 다 못 풀었다면 코드 리뷰를  토요일에 미리 PR을 보내는 것을 권장한다.
+- 매주 일요일이 PR 마감 시간이나, 일요일까지 문제를 다 못 풀었다면 코드 리뷰를 위해 토요일에 미리 PR을 보내는 것을 권장한다.
 
 ### 문제
 - [ps_study](https://github.com/kimnamu/ps_study)의 문제를 푼다.
@@ -98,7 +101,7 @@ _업데이트 일정: 매주 월요일_
 
 </br>
 
-## 🗓 일정표(매주 5 문제)
+## 🗓 3월 일정표(매주 5 문제)
 
 | 주차 | 날짜 | 문제 유형 | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -118,7 +121,7 @@ _업데이트 일정: 매주 월요일_
 
 ## 🔍 참여 방법
 1. 이 저장소를 `fork` 한다.
-2. 생성된 원격 저장소에 githubID로 폴더를 생성한다.
+2. 생성된 원격 저장소에 `Github ID`로 폴더를 생성한다.
 3. 알고리즘 풀이 후 원격 저장소 자신의 폴더에 풀이한 소스 코드를 `push` 한다.
 4. commit할 때 commit 컨벤션을 지킨다.
 5. 마감 시간 전까지 원본 저장소로 `PR`한다.
