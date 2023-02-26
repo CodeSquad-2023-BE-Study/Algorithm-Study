@@ -30,16 +30,12 @@ public class BOJ_2309_일곱_난쟁이 {
         }
 
         // 합 - 2명 키 = 100 인 경우 탐색
-        int index1 = -1;
-        int index2 = -1;
         loop:
         for (int i = 0; i < dwarfs.length - 1; i++) {
             for (int j = i + 1; j < dwarfs.length; j++) {
                 if (sum - dwarfs[i] - dwarfs[j] == 100) {
-//                    dwarfs[i] = 0;
-//                    dwarfs[j] = 0;
-                    index1 = i;
-                    index2 = j;
+                    dwarfs[i] = 0;
+                    dwarfs[j] = 0;
                     break loop;
                 }
             }
@@ -47,13 +43,7 @@ public class BOJ_2309_일곱_난쟁이 {
 
         // 결과 출력
         Arrays.sort(dwarfs);  // !! 정렬
-//        for (int i = 2; i < dwarfs.length; i++) {
-//            System.out.println(dwarfs[i]);
-//        }
-        for (int i = 0; i < dwarfs.length; i++) {
-            if (i == index1 || i == index2) {
-                continue;
-            }
+        for (int i = 2; i < dwarfs.length; i++) {
             System.out.println(dwarfs[i]);
         }
     }
