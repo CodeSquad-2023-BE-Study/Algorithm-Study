@@ -22,11 +22,11 @@ public class BOJ_1051_숫자_정사각형 {
         }
 
         int len = Math.min(N, M);
-        int row = N - len;
-        int col = M - len;
 
         loop:
         while (len > 1) {
+            int row = N - len;
+            int col = M - len;
             for (int i = 0; i <= row; i++) {
                 for (int j = 0; j <= col; j++) {
                     int vertex = square[i][j];
