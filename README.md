@@ -73,7 +73,7 @@ _업데이트 일정: 매주 월요일_
 
 | 주차 | 날짜 | jinny-l | HyowonSin | jaea-kim | JeonHyoChang | Gwonwoo-Nam |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Week 01| 23-02-20 ~ 23-02-26 | ✅ | ❌ | 2️⃣ | ✅ | 중도 합류 |
+|Week 01| 02-20 ~ 02-26 | ✅ | ✅ | ✅ | ✅ | 중도 합류 |
 |Week 02| |  |  |  |  |  |
 |Week 03| |  |  |  |  |  |
 |Week 04| |  |  |  |  |  |
@@ -105,12 +105,12 @@ _업데이트 일정: 매주 월요일_
 
 | 주차 | 날짜 | 문제 유형 | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Week_01| 23-02-20 <br> ~ <br> 23-02-26 | Bruete Force | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> [분해합](https://www.acmicpc.net/problem/2231) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br> [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [한수](https://www.acmicpc.net/problem/1065) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [숫자 정사각형](https://www.acmicpc.net/problem/1051) |
-|Week_02| 23-02-27 <br> ~ <br> 23-03-05 | Sort Application | [세수정렬](https://www.acmicpc.net/problem/2752) | [콘테스트](https://www.acmicpc.net/problem/5576) | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [신입사원](https://www.acmicpc.net/problem/1946) |
-|Week_03| 23-03-06 <br> ~ <br> 23-03-12 | Binary Search | [정수 제곱근](https://www.acmicpc.net/problem/2417) | [수 찾기](https://www.acmicpc.net/problem/1920) | [게임](https://www.acmicpc.net/problem/1072) | [용돈 관리](https://www.acmicpc.net/problem/6236) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
-|Week_04| 23-03-13 <br> ~ <br> 23-03-19 | Two Pointers | [배열 합치기](https://www.acmicpc.net/problem/11728) | [두 수의 합](https://www.acmicpc.net/problem/3273) | [주몽](https://www.acmicpc.net/problem/1940) | [수들의 합 5](https://www.acmicpc.net/problem/2018) | [수들의 합 2](https://www.acmicpc.net/problem/2003) |
-|Week_05| 23-03-20 <br> ~ <br> 23-03-26 | Graph Search | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [바이러스](https://www.acmicpc.net/problem/2606) | [유기농 배추](https://www.acmicpc.net/problem/1012) | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [토마토](https://www.acmicpc.net/problem/7576) |
-|Week_06| 23-03-27 <br> ~ <br> 23-04-02 | Tree | [상근이의 여행](https://www.acmicpc.net/problem/9372) | [부동산 다툼](https://www.acmicpc.net/problem/20364) | [완전 이진 트리](https://www.acmicpc.net/problem/9934) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [트리 순회](https://www.acmicpc.net/problem/1991) |
+|Week_01| 02-20 <br> ~ <br> 02-26 | Bruete Force | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> <br> [분해합](https://www.acmicpc.net/problem/2231) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> <br> [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [한수](https://www.acmicpc.net/problem/1065) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [숫자 정사각형](https://www.acmicpc.net/problem/1051) |
+|Week_02| 02-27 <br> ~ <br> 03-05 | Sort Application | [세수정렬](https://www.acmicpc.net/problem/2752) | [콘테스트](https://www.acmicpc.net/problem/5576) | [나이순 정렬](https://www.acmicpc.net/problem/10814) | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [신입사원](https://www.acmicpc.net/problem/1946) |
+|Week_03| 03-06 <br> ~ <br> 03-12 | Binary Search | [정수 제곱근](https://www.acmicpc.net/problem/2417) | [수 찾기](https://www.acmicpc.net/problem/1920) | [게임](https://www.acmicpc.net/problem/1072) | [용돈 관리](https://www.acmicpc.net/problem/6236) | [나무 자르기](https://www.acmicpc.net/problem/2805) |
+|Week_04| 03-13 <br> ~ <br> 03-19 | Two Pointers | [배열 합치기](https://www.acmicpc.net/problem/11728) | [두 수의 합](https://www.acmicpc.net/problem/3273) | [주몽](https://www.acmicpc.net/problem/1940) | [수들의 합 5](https://www.acmicpc.net/problem/2018) | [수들의 합 2](https://www.acmicpc.net/problem/2003) |
+|Week_05| 03-20 <br> ~ <br> 03-26 | Graph Search | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [바이러스](https://www.acmicpc.net/problem/2606) | [유기농 배추](https://www.acmicpc.net/problem/1012) | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [토마토](https://www.acmicpc.net/problem/7576) |
+|Week_06| 03-27 <br> ~ <br> 04-02 | Tree | [상근이의 여행](https://www.acmicpc.net/problem/9372) | [부동산 다툼](https://www.acmicpc.net/problem/20364) | [완전 이진 트리](https://www.acmicpc.net/problem/9934) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [트리 순회](https://www.acmicpc.net/problem/1991) |
 |Week_07| |  | []() | []() | []() | []() | []() |
 
 </br>
