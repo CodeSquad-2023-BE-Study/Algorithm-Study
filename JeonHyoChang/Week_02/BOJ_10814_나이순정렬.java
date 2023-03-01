@@ -1,0 +1,35 @@
+package Week_02;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.*;
+
+class User {
+    int age;
+    String name;
+
+    public User(int age, String name) {
+        this.age = age;
+        this.name = name;
+    }
+}
+
+public class BOJ_10814_나이순정렬 {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        int x = Integer.parseInt(br.readLine());
+        List<User> user_List = new ArrayList<>();
+        for (int i = 0; i < x; i++) {
+            StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+            user_List.add(new User(Integer.parseInt(st.nextToken()), st.nextToken()));
+        }
+
+        Collections.sort(user_List, (o1, o2) -> o1.age - o2.age);
+
+        for (User temp : user_List) {
+            System.out.println(temp.age + " " + temp.name);
+        }
+    }
+}
