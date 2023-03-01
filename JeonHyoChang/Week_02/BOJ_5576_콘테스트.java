@@ -12,10 +12,12 @@ public class BOJ_5576_콘테스트 {
         List<Integer> university_W = new ArrayList<>();
         List<Integer> university_K = new ArrayList<>();
         for (int i = 0; i < 20; i++) {
+            // 10번을 기준으로 2개의 List에 값을 저장
             if (i < 10) university_W.add(Integer.parseInt(br.readLine()));
             else university_K.add(Integer.parseInt(br.readLine()));
         }
 
+        // 정렬뒤 앞 3개의 값을 더한값을 출력
         Collections.sort(university_W, Collections.reverseOrder());
         Collections.sort(university_K, Collections.reverseOrder());
 
