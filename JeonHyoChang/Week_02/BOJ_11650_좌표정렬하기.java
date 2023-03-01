@@ -25,6 +25,7 @@ public class BOJ_11650_좌표정렬하기 {
             coordinate_List.add(new Coordinate(Integer.parseInt(st.nextToken()), Integer.parseInt(st.nextToken())));
         }
 
+        // 3번 문제에서 사용한것에서 x좌표가 같을시 처리조건을 추가
         Collections.sort(coordinate_List, (o1, o2) -> {
             if (o1.x == o2.x) {
                 return o1.y - o2.y;
