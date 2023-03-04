@@ -4,6 +4,11 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 public class BOJ_5576_콘테스트 {
+    /**
+     * 문제 풀이
+     * 1. w 점수와 k 점수를 각각 배열에 저장
+     * 2. Arrays.sort로 각각 w, k 배열을 오름차순 정렬 후 최대 값 3개를 출력
+     */
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int wScore[] = new int[10];
