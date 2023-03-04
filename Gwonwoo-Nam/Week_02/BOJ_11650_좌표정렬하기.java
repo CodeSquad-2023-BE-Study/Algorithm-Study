@@ -7,6 +7,12 @@ import java.util.Arrays;
 import java.util.List;
 
 public class BOJ_11650_좌표정렬하기 {
+    /**
+     * 문제 풀이
+     * 1. x,y좌표를 가지는 Point Class
+     * 2. compareTo를 override하여 x,y 순서의 우선순위로 정렬하도록 구현
+     * 3. point List를 정렬한 후 출력
+     */
     static class Point implements Comparable {
 
         private int x;
