@@ -5,6 +5,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BOJ_10814_나이순정렬 {
+    /**
+     * 문제 풀이
+     * 1. 이름, 나이, 등록 순서(index)를 가지는 Person Class
+     * 2. compareTo를 override하여 나이와 등록 순서의 우선순위로 정렬하도록 구현
+     * 3. personList를 정렬한 후 출력
+     */
 
     static class Person implements Comparable {
 
