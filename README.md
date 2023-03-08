@@ -19,20 +19,22 @@
   </tr>
   <tr>
     <td>언어</td>
-    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </td>
   </tr>
 </table>
 
-</br>
+<br/>
 
 ## 🤖 스터디 멤버
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/jinny-l" width="120px;" alt=""></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/HyowonSin" width="120px;" alt=""></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="120px;" alt=""></td>
-    <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="120px;" alt=""></td>
-    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="120px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jinny-l"><img src="https://avatars.githubusercontent.com/jinny-l" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/HyowonSin" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/JeonHyoChang"><img src="https://avatars.githubusercontent.com/JeonHyoChang" width="130px;" alt=""></td>
+    <td align="center"><a href="https://github.com/Gwonwoo-Nam"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="130px;" alt=""></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/jinny-l"><b>jinny-l</b></td>
@@ -45,12 +47,12 @@
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
   </tr> 
 </table>
 
-</br>
+<br/>
 
 ## ✔️ 이번 주 문제
 _업데이트 일정: 매주 월요일_
@@ -59,7 +61,7 @@ _업데이트 일정: 매주 월요일_
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |Week_03| 23-03-06 <br> ~ <br> 23-03-12 | Binary Search | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [정수 제곱근](https://www.acmicpc.net/problem/2417) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> [수 찾기](https://www.acmicpc.net/problem/1920) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> [게임](https://www.acmicpc.net/problem/1072) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> [용돈 관리](https://www.acmicpc.net/problem/6236) | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> [나무 자르기](https://www.acmicpc.net/problem/2805) |
 
-</br>
+<br/>
 
 ## 🧑🏻‍💻 진행 상황
 _업데이트 일정: 매주 월요일_
@@ -73,13 +75,13 @@ _업데이트 일정: 매주 월요일_
 
 | 주차 | 날짜 | jinny-l | HyowonSin | jaea-kim | JeonHyoChang | Gwonwoo-Nam |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|Week 01| 02-20 ~ 02-26 | ✅ | ✅ | ✅ | ✅ | 중도 합류 |
-|Week 02| |  |  |  |  |  |
-|Week 03| |  |  |  |  |  |
-|Week 04| |  |  |  |  |  |
-|Week 05| |  |  |  |  |  |
+|Week_01| 02-20 ~ 02-26 | ✅ | ✅ | ✅ | ✅ | 중도 합류 |
+|Week_02| 02-27 ~ 03-05| ✅ | ✅ | ✅ | ✅ | ✅ |
+|Week_03| |  |  |  |  |  |
+|Week_04| |  |  |  |  |  |
+|Week_05| |  |  |  |  |  |
 
-</br>
+<br/>
 
 ## 📌 스터디 규칙
 ### 운영 방식
@@ -99,7 +101,7 @@ _업데이트 일정: 매주 월요일_
 - 주마다 5문제를 풀이한다.
 - 주차별 문제 풀이 미완료 시 풀지 않은 문제당 1,000원 적립
 
-</br>
+<br/>
 
 ## 🗓 3월 일정표(매주 5 문제)
 
@@ -113,11 +115,11 @@ _업데이트 일정: 매주 월요일_
 |Week_06| 03-27 <br> ~ <br> 04-02 | Tree | [상근이의 여행](https://www.acmicpc.net/problem/9372) | [부동산 다툼](https://www.acmicpc.net/problem/20364) | [완전 이진 트리](https://www.acmicpc.net/problem/9934) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [트리 순회](https://www.acmicpc.net/problem/1991) |
 |Week_07| |  | []() | []() | []() | []() | []() |
 
-</br>
+<br/>
 
 ---
 
-</br>
+<br/>
 
 ## 🔍 참여 방법
 1. 이 저장소를 `fork` 한다.
@@ -127,7 +129,7 @@ _업데이트 일정: 매주 월요일_
 5. 마감 시간 전까지 원본 저장소로 `PR`한다.
 6. (option) 다른 사람들의 PR을 보고 자유롭게 코드리뷰를 한다.
 
-</br>
+<br/>
 
 ## 📁 Repository 폴더 구조
 - Github ID/주차/소스코드(플랫폼, 문제 번호와 제목 명시)
@@ -135,7 +137,7 @@ _업데이트 일정: 매주 월요일_
 ### 💡 예시
 `jinny-l/Week_01/BOJ_1000_A+B.java`
 
-</br>
+<br/>
 
 ## ⚠️ commit 컨벤션
 
@@ -165,7 +167,7 @@ _업데이트 일정: 매주 월요일_
 | 프로그래머스 | [PGS] |
 | 리트코드 | [LTC] |
 
-</br>
+<br/>
 
 ## ⚠️ PR 규칙
 - [주차] {완료한 문제 개수} 문제 제출합니다." 형태로 작성
