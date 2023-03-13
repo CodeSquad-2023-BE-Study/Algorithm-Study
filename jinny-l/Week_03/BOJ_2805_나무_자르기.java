@@ -3,42 +3,49 @@ package Week_03;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
-// TODO: 시간 초과, 이분탐색으로 풀이 필요
+// TODO: 한번 더 풀어보기
 public class BOJ_2805_나무_자르기 {
+
+    private static int max;
+    private static int[] trees;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
-        // 입력
+        // 입력받으면서 최대 높이의 나무 찾기
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
-        int[] trees = new int[N];
+        trees = new int[N];
         st = new StringTokenizer(br.readLine(), " ");
         for (int i = 0; i < trees.length; i++) {
             trees[i] = Integer.parseInt(st.nextToken());
+            max = Integer.max(max, trees[i]);
         }
-        Arrays.sort(trees);
 
-        int height = trees[trees.length - 1] - 1;
-        while (true) {
-            int sum = 0;
-            for (int tree : trees) {
-                if (tree > height) {
-                    sum += tree - height;
-                }
-            }
-            if (sum >= M) {
-                System.out.println(height);
-                break;
-            }
-            height--;
-        }
+        //이분 탐색
+        System.out.println(binarySearch(M));
     }
 
-    private static void binarySearch() {
-
+    private static long binarySearch(long M) {
+        int min = 0;
+        long result = 0;
+        while (min < max) {
+            int mid = (min + max) / 2;
+            long sum = 0;
+            for (long tree : trees) {
+                if (tree - mid > 0) {
+                    sum += tree - mid;
+                }
+            }
+            if (sum < M) {
+                max = mid;
+            } else {
+                min = mid + 1;
+            }
+        }
+        return min - 1;
     }
 }
