@@ -5,37 +5,40 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-// TODO: 시간 초과, 이분탐색으로 풀이 필요
+// TODO: 나중에 한번 더 풀어보기
 public class BOJ_1072_게임 {
+
+    private static int winRate;
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
+        //입력
         double x = Integer.parseInt(st.nextToken());
         double y = Integer.parseInt(st.nextToken());
 
-        // Z가 절대 변하지 않을 때
-        if (x == y) {
-            System.out.println(-1);
-            return;
-        }
+        winRate = getRate(x, y); // 조건
+        System.out.println(binarySearch(x, y));
+    }
 
-        // 최소 게임 횟수 계산
-        int winRate = (int) (y * 100 / x);
-        int count = 0;
-        while (true) {
-            x++; // 게임 횟수 증가
-            y++; // 승률이 100퍼센트여서 이긴 게임도 증가
-            count++;
-            int changedWinRate = (int) (y * 100 / x);
-            if (changedWinRate > winRate) {
-                break;
-            }
-            if (x == 1_000_000_000 && changedWinRate == winRate) { // Z가 절대 변하지 않을 때
-                count = -1;
-                break;
+    private static long binarySearch(double x, double y) {
+        long left = 0;
+        long right = 1_000_000_000;
+        long count = -1;
+        while (left <= right) {
+            long mid = (left + right) / 2;
+            if ((getRate(x + mid, y + mid)) == winRate) {
+                left = mid + 1;
+            } else {
+                count = mid;
+                right = mid - 1;
             }
         }
-        System.out.println(count);
+        return count;
+    }
+
+    private static int getRate(double x, double y) {
+        return (int) (y * 100 / x);
     }
 }
