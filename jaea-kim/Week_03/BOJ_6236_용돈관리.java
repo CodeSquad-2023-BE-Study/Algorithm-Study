@@ -34,9 +34,9 @@ public class BOJ_6236_용돈관리 {
         }
 
         int totalMoney = Arrays.stream(useMoney).reduce(0, Integer::sum); //총 사용 금액보다 많이는 필요 없으니
-        int low = Arrays.stream(useMoney).min().getAsInt(); //사용할 용돈 중 가장 작은 금액 이상은 가지고 있어야하니
+        int low = Arrays.stream(useMoney).max().getAsInt(); //사용할 용돈 중 가장 큰 금액 이상은 가지고 있어야함
         int high = totalMoney;
-        int answer = 0;
+        int answer = low;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
