@@ -12,8 +12,8 @@ public class BOJ_2805_나무자르기 {
      총 가져가는 나무 높이 >= M
      절단기의 최대높이 -> 가져가는 나무 최대한 작게
      */
-    public static int getTakenLength(int mid, int[] treeHeight) {
-        int result = 0;
+    public static long getTakenLength(int mid, int[] treeHeight) {
+        long result = 0;
         for (int i = 0; i < treeHeight.length; i++) {
             if (treeHeight[i] > mid) {
                 result += (treeHeight[i] - mid);
