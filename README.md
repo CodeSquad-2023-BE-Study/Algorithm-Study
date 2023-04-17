@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>정기 스터디 시간</td>
-    <td>일요일 13:30 ~ 16:30 [3h]</td>
+    <td>일요일 13:30 ~ 16:30 [3h] &rarr; <a href="https://github.com/CodeSquad-2023-BE-Study/Algorithm-Study/wiki/%EB%AA%A8%EC%9E%84-%EC%9D%BC%EC%A0%95"><b>일정 확인</b></a></td>
   </tr>
   <tr>
     <td>플랫폼</td>
