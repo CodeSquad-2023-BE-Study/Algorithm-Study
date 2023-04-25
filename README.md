@@ -59,7 +59,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| week_09 | 04-17 ~ 04-23 | Greedy | <p align=left> 1️⃣ [ATM](https://www.acmicpc.net/problem/11399) <br> 2️⃣ [에너지 드링크](https://www.acmicpc.net/problem/20115) <br> 3️⃣ [민겸 수](https://www.acmicpc.net/problem/21314) <br> 4️⃣ [회의실 배정](https://www.acmicpc.net/problem/1931) <br> 5️⃣ [강의실 배정](https://www.acmicpc.net/problem/11000) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br><br><br> |
+| week_10 | 04-24 ~ 04-30 | String | <p align=left> 1️⃣ [듣보잡](https://www.acmicpc.net/problem/1764) <br> 2️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) <br> 3️⃣ [싸이버개강총회](https://www.acmicpc.net/problem/19583) <br> 4️⃣ [문자열 게임 2](https://www.acmicpc.net/problem/20437) <br> 5️⃣ [회문](https://www.acmicpc.net/problem/17609) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br><br><br> |
 
 <br/>
 
@@ -81,7 +81,8 @@
 | week_05 | 03-20 ~ 03-26 |    ✅    |     🔺     |    ✅     |      ✅       |      ✅      |
 | week_06 | 03-27 ~ 04-02 |    2️⃣    |     ❌     |     🔺    |      🔺       |      ✅      |
 | week_07 | 04-03 ~ 04-09 |   방학    |    방학    |    방학    |      방학      |     방학      |
-| week_08 | 03-27 ~ 04-02 |    2️⃣    |     ✅     |     4️⃣    |      4️⃣       |      ✅      |
+| week_08 | 04-10 ~ 04-16 |    2️⃣    |     ✅     |     4️⃣    |      4️⃣       |      ✅      |
+| week_09 | 04-17 ~ 04-23 |    4️⃣    |     4️⃣     |     ✅    |      ✅       |      ✅      |
 
 <br/>
 
