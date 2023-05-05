@@ -46,10 +46,10 @@
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
     <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
   </tr> 
 </table>
 
@@ -59,7 +59,8 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| week_10 | 04-24 ~ 04-30 | String | <p align=left> 1️⃣ [듣보잡](https://www.acmicpc.net/problem/1764) <br> 2️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) <br> 3️⃣ [싸이버개강총회](https://www.acmicpc.net/problem/19583) <br> 4️⃣ [문자열 게임 2](https://www.acmicpc.net/problem/20437) <br> 5️⃣ [회문](https://www.acmicpc.net/problem/17609) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br><br><br> |
+| week_11 | 05-01 ~ 05-07 | Implementation | <p align=left> 1️⃣ [ZOAC 3](https://www.acmicpc.net/problem/20436) <br> 2️⃣ [달팽이](https://www.acmicpc.net/problem/1913) <br> 3️⃣ [달력](https://www.acmicpc.net/problem/20207) <br> 4️⃣ [ZOAC](https://www.acmicpc.net/problem/16719) <br> 5️⃣ [트리 순회](https://www.acmicpc.net/problem/22856) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br><br><br> |
+
 
 <br/>
 
@@ -72,6 +73,8 @@
 | 해당 주에 미완료 시      | ❌   |
 | 해당 주차 종료 이후 보충 시 | 🔺  |
 
+<br>
+
 |   주차    |      날짜       | jinny-l | HyowonSin | jaea-kim | JeonHyoChang | Gwonwoo-Nam |
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:-----------:|
 | week_01 | 02-20 ~ 02-26 |    ✅    |     ✅     |    ✅     |      ✅       |    중도 합류   |
@@ -81,8 +84,9 @@
 | week_05 | 03-20 ~ 03-26 |    ✅    |     🔺     |    ✅     |      ✅       |      ✅      |
 | week_06 | 03-27 ~ 04-02 |    2️⃣    |     ❌     |     🔺    |      🔺       |      ✅      |
 | week_07 | 04-03 ~ 04-09 |   방학    |    방학    |    방학    |      방학      |     방학      |
-| week_08 | 04-10 ~ 04-16 |    2️⃣    |     ✅     |     4️⃣    |      4️⃣       |      ✅      |
-| week_09 | 04-17 ~ 04-23 |    4️⃣    |     4️⃣     |     ✅    |      ✅       |      ✅      |
+| week_08 | 04-10 ~ 04-16 |    2️⃣    |     ✅     |     ✅    |      ✅       |      ✅      |
+| week_09 | 04-17 ~ 04-23 |    ✅    |     ✅     |     ✅    |      ✅       |      ✅      |
+| week_10 | 04-24 ~ 04-30 |    ✅    |     ✅     |     3️⃣    |      ✅       |      ✅      |
 
 <br/>
 
