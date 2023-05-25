@@ -59,7 +59,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| week_13 | 05-15 ~ 05-21 | Implementation | <p align=left> 1️⃣ [ZOAC 3](https://www.acmicpc.net/problem/20436) <br> 2️⃣ [달팽이](https://www.acmicpc.net/problem/1913) <br> 3️⃣ [달력](https://www.acmicpc.net/problem/20207) <br> 4️⃣ [ZOAC](https://www.acmicpc.net/problem/16719) <br> 5️⃣ [트리 순회](https://www.acmicpc.net/problem/22856) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br><br><br> |
+| week_14 | 05-22 ~ 05-28 | Divide and conquer | <p align=left> 1️⃣ [색종이 만들기](https://www.acmicpc.net/problem/2630) <br> 2️⃣ [222-풀링](https://www.acmicpc.net/problem/17829) <br> 3️⃣ [Z](https://www.acmicpc.net/problem/1074) <br> 4️⃣ [별 찍기 - 10](https://www.acmicpc.net/problem/2447) <br> 5️⃣ [별 찍기 - 11](https://www.acmicpc.net/problem/2448) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br><br><br> |
 
 
 <br/>
@@ -77,19 +77,21 @@
 
 |   주차    |      날짜       | jinny-l | HyowonSin | jaea-kim | JeonHyoChang | Gwonwoo-Nam |
 |:-------:|:-------------:|:-------:|:---------:|:--------:|:------------:|:-----------:|
-| week_01 | 02-20 ~ 02-26 |    ✅    |     ✅     |    ✅     |      ✅       |    중도 합류   |
-| week_02 | 02-27 ~ 03-05 |    ✅    |     ✅     |    ✅     |      ✅       |      ✅      |
-| week_03 | 03-06 ~ 03-12 |    ✅    |     🔺     |    ✅     |      ✅       |      ✅      |
-| week_04 | 03-13 ~ 03-19 |    ✅    |     ✅     |    🔺     |      ✅       |      ✅      |
-| week_05 | 03-20 ~ 03-26 |    ✅    |     🔺     |    ✅     |      ✅       |      ✅      |
-| week_06 | 03-27 ~ 04-02 |    2️⃣    |     ❌     |     🔺    |      🔺       |      ✅      |
-| week_07 | 04-03 ~ 04-09 |   방학    |    방학    |    방학    |      방학      |     방학      |
-| week_08 | 04-10 ~ 04-16 |    2️⃣    |     ✅     |     ✅    |      ✅       |      ✅      |
-| week_09 | 04-17 ~ 04-23 |    ✅    |     ✅     |     ✅    |      ✅       |      ✅      |
-| week_10 | 04-24 ~ 04-30 |    ✅    |     ✅     |     3️⃣    |      ✅       |      ✅      |
-| week_11 | 05-01 ~ 05-07 |   방학    |    방학    |    방학    |      방학      |     방학      |
-| week_12 | 05-08 ~ 05-14 |   방학    |    방학    |    방학    |      방학      |     방학      |
-| week_13 | 05-15 ~ 05-21 |       |        |        |            |           |
+| week_01 | 02-20 ~ 02-26 |    ✅    |     ✅     |    ✅     |      ✅      |   중도 합류   |
+| week_02 | 02-27 ~ 03-05 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |
+| week_03 | 03-06 ~ 03-12 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |
+| week_04 | 03-13 ~ 03-19 |    ✅    |     ✅     |    🔺     |      ✅      |      ✅     |
+| week_05 | 03-20 ~ 03-26 |    ✅    |     🔺     |    ✅     |      ✅      |      ✅     |
+| week_06 | 03-27 ~ 04-02 |    2️⃣    |     ❌     |    🔺     |      🔺      |      ✅     |
+| week_07 | 04-03 ~ 04-09 |   방학    |    방학    |    방학    |      방학     |     방학     |
+| week_08 | 04-10 ~ 04-16 |    2️⃣    |     ✅     |    ✅     |      ✅      |      ✅     |
+| week_09 | 04-17 ~ 04-23 |    ✅    |     ✅     |    ✅     |      ✅      |      ✅     |
+| week_10 | 04-24 ~ 04-30 |    ✅    |     ✅     |    3️⃣     |      ✅      |      ✅     |
+| week_11 | 05-01 ~ 05-07 |   방학    |    방학    |    방학    |      방학     |     방학     |
+| week_12 | 05-08 ~ 05-14 |   방학    |    방학    |    방학    |      방학     |     방학     |
+| week_13 | 05-15 ~ 05-21 |    ✅    |     ✅     |    ✅     |      ✅      |     방학     |
+| week_14 | 05-22 ~ 05-28 |          |           |           |             |             |
+
 
 <br/>
 
@@ -143,7 +145,7 @@
 | week_10 | 04-24 ~ 04-30 | String | <p align=left> 1️⃣ [듣보잡](https://www.acmicpc.net/problem/1764) <br> 2️⃣ [파일 정리](https://www.acmicpc.net/problem/20291) <br> 3️⃣ [싸이버개강총회](https://www.acmicpc.net/problem/19583) <br> 4️⃣ [문자열 게임 2](https://www.acmicpc.net/problem/20437) <br> 5️⃣ [회문](https://www.acmicpc.net/problem/17609) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br><br><br> |
 | week_11 | 05-01 ~ 05-07 | 방학 | X | X | X |
 | week_12 | 05-08 ~ 05-14 | 방학 | X | X | X |
-| week_13 | 05-15 ~ 05-21 | Implementation | <p align=left> 1️⃣ [ZOAC 3](https://www.acmicpc.net/problem/20436) <br> 2️⃣ [달팽이](https://www.acmicpc.net/problem/1913) <br> 3️⃣ [달력](https://www.acmicpc.net/problem/20207) <br> 4️⃣ [ZOAC](https://www.acmicpc.net/problem/16719) <br> 5️⃣ [트리 순회](https://www.acmicpc.net/problem/22856) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br><br><br> |
+| week_13 | 05-15 ~ 05-21 | Implementation | <p align=left> 1️⃣ [ZOAC 3](https://www.acmicpc.net/problem/20436) <br> 2️⃣ [달팽이](https://www.acmicpc.net/problem/1913) <br> 3️⃣ [달력](https://www.acmicpc.net/problem/20207) <br> 4️⃣ [ZOAC](https://www.acmicpc.net/problem/16719) <br> 5️⃣ [트리 순회](https://www.acmicpc.net/problem/22856) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br><br><br> |
 | week_14 | 05-22 ~ 05-28 | Divide and conquer | <p align=left> 1️⃣ [색종이 만들기](https://www.acmicpc.net/problem/2630) <br> 2️⃣ [222-풀링](https://www.acmicpc.net/problem/17829) <br> 3️⃣ [Z](https://www.acmicpc.net/problem/1074) <br> 4️⃣ [별 찍기 - 10](https://www.acmicpc.net/problem/2447) <br> 5️⃣ [별 찍기 - 11](https://www.acmicpc.net/problem/2448) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br><br><br> |
   
   
