@@ -59,7 +59,7 @@
 
 | 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| week_15 | 05-29 ~ 06-04 | Data Structre 1 | <p align=left> 1️⃣ [괄호](https://www.acmicpc.net/problem/9012) <br> 2️⃣ [후위 표기식2](https://www.acmicpc.net/problem/1935) <br> 3️⃣ [탑](https://www.acmicpc.net/problem/2493) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
+| week_16 | 06-05 ~ 06-11 | Data Structre 2 | <p align=left> 1️⃣ [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) <br> 2️⃣ [N번째 큰 수](https://www.acmicpc.net/problem/2075) <br> 3️⃣ [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br> |
 
 
 <br/>
@@ -91,7 +91,8 @@
 | week_12 | 05-08 ~ 05-14 |   방학    |    방학    |    방학    |      방학     |     방학     |
 | week_13 | 05-15 ~ 05-21 |    2️⃣    |     ✅     |    ✅     |      3️⃣      |   면접 준비   |
 | week_14 | 05-22 ~ 05-28 |    3️⃣    |     3️⃣     |    2️⃣     |      3️⃣      |   면접 준비   |
-| week_15 | 05-29 ~ 06-04 |    ✅    |     ✅     |    ✅     |      ✅      |   면접 준비   |
+| week_15 | 05-29 ~ 06-04 |    ✅    |     ✅     |    ❌     |      ✅      |   면접 준비   |
+| week_16 | 06-05 ~ 06-11 |        |          |         |            |   면접 준비   |
 
 
 <br/>
