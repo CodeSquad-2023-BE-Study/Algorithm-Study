@@ -57,10 +57,6 @@
 
 ## ✔️ 이번 주 문제
 
-| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| week_19 | 06-26 ~ 07-02 | Backtracking | <p align=left> 1️⃣ [N과 M (1)](https://www.acmicpc.net/problem/15649) <br> 2️⃣ [N과 M (9)](https://www.acmicpc.net/problem/15663) <br> 3️⃣ [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | <br><br> |
-
 
 <br/>
 
@@ -95,7 +91,11 @@
 | week_16 | 06-05 ~ 06-11 |    ✅    |     2️⃣     |    2️⃣     |      ✅      |   면접 준비   |
 | week_17 | 06-12 ~ 06-18 |   방학    |    방학    |    방학    |      방학     |     방학     |
 | week_18 | 06-19 ~ 06-25 |   방학    |    방학    |    방학    |      방학     |     방학     |
-| week_19 | 06-26 ~ 07-02 |        |          |         |            |      |
+| week_19 | 06-26 ~ 07-02 |   방학    |    방학    |    방학    |      방학     |     방학     |
+| week_20 | 07-03 ~ 07-09 |   2️⃣    |     ❌     |    2️⃣     |      2️⃣     |      ❌    |
+| week_21 | 07-10 ~ 07-16 |   1️⃣    |     ❌     |    ❌    |       ❌     |      ❌    |
+| week_22 | 07-17 ~ 07-23 |        |          |         |            |      |
+| week_23 | 07-24 ~ 07-30 |        |          |         |            |      |
 
 
 <br/>
