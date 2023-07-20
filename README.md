@@ -57,6 +57,10 @@
 
 ## ✔️ 이번 주 문제
 
+| 주차 | 날짜 | 문제 유형 | 문제 | 난이도 | 비고 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| week_22 | 07-17 ~ 07-23 | Minimum Spanning Tree | <p align=left> 1️⃣ [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) <br> 2️⃣ [네트워크 연결](https://www.acmicpc.net/problem/1922) <br> 3️⃣ [도시 건설](https://www.acmicpc.net/problem/21924) </p> | <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> <br> <img height="20px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | <br><br> |
+
 
 <br/>
 
