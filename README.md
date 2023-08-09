@@ -82,7 +82,7 @@
 
 ## 📁 Repository 폴더 구조
 ```
-Github ID/season2/{날짜}/{코드.java}
+{Github ID}/season2/{날짜}/{코드.java}
 ```
 
 - 💡 예시: `jinny-l/season2/_230809/PGS_다트_게임.java`
@@ -126,7 +126,7 @@ Github ID/season2/{날짜}/{코드.java}
 ## ⚠️ PR 규칙
 
 ```
-[날짜] {플랫폼 or 언어} {문제 제목} - {기타 내용}" 형태로 작성
+[날짜] {플랫폼 or 언어} {문제 제목} - {기타 내용}
 ```
 
 - 💡 예시: `[230809] PGS 다트 게임 - 1문제`
