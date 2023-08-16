@@ -41,35 +41,35 @@ public class BOJ_1991_트리순회 {
     }
 
     public static void postOrder(int index, String[] tree) {
-        if (tree[index] != null && !tree[index].equals(".")) {
-            if (tree[2*index] != null && !tree[2*index].equals(".")) {
+        if (tree[index] != null && !tree[index].equals("")) {
+            if (tree[2*index] != null && !tree[2*index].equals("")) {
                 postOrder(2*index, tree);
 
             }
-            if (tree[2*index+1] != null && !tree[2*index+1].equals(".")) {
+            if (tree[2*index+1] != null && !tree[2*index+1].equals("")) {
                 postOrder(2*index + 1, tree);
             }
             System.out.print(tree[index]);
         }
     }
     public static void preOrder(int index, String[] tree) {
-        if (tree[index] != null && !tree[index].equals(".")) {
+        if (tree[index] != null && !tree[index].equals("")) {
             System.out.print(tree[index]);
-            if (tree[2*index] != null && !tree[2*index].equals(".")) {
+            if (tree[2*index] != null && !tree[2*index].equals("")) {
                 preOrder(2*index, tree);
             }
-            if (tree[2*index+1] != null && !tree[2*index+1].equals(".")) {
+            if (tree[2*index+1] != null && !tree[2*index+1].equals("")) {
                 preOrder(2*index + 1, tree);
             }
         }
     }
     public static void inOrder(int index, String[] tree) {
-        if (tree[index] != null && !tree[index].equals(".")) {
-            if (tree[2*index] != null && !tree[2*index].equals(".")) {
+        if (tree[index] != null && !tree[index].equals("")) {
+            if (tree[2*index] != null && !tree[2*index].equals("")) {
                 inOrder(2*index, tree);
             }
             System.out.print(tree[index]);
-            if (tree[2*index+1] != null && !tree[2*index+1].equals(".")) {
+            if (tree[2*index+1] != null && !tree[2*index+1].equals("")) {
                 inOrder(2*index + 1, tree);
             }
         }
